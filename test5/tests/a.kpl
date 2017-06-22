@@ -1,0 +1,7 @@
+Program E1;
+Var V: integer;
+Begin
+	V := 0;
+	V := 10 < 1 ? 0 : 1;
+	CALL WRITEI(V);
+End.

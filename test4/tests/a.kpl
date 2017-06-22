@@ -1,0 +1,8 @@
+Program E1;
+Var V,I: integer;
+Begin
+	V := 0;
+	FOR( I := 0 ; I < 10 ; I := I + 1)
+		V := V + 1;
+	CALL WRITEI(V);
+End.

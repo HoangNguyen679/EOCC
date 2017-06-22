@@ -1,0 +1,17 @@
+Program E1; 
+Var V,I: integer;
+FUNCTION B() : integer ;
+Begin
+end;
+PROCEDURE Toto();
+Begin
+end;
+Begin
+	V := 0;
+	V := 10 < 1 ? 0 : 1;
+	I := 1;
+	CALL WRITEI(V);
+	CALL WRITEI(B);
+	CALL Toto();
+	CALL WRITEI();
+End.

@@ -1,0 +1,12 @@
+PROGRAM EXAMPLE10; (* example 10 *)
+VAR N : INTEGER;
+ S : INTEGER;
+BEGIN
+ N:= 0;
+  DO 
+     BEGIN
+      N := N +1;
+      Call writei(N) ;
+     END; 
+    WHILE N < 10;
+END.

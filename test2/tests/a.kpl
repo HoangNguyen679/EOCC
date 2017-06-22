@@ -1,0 +1,18 @@
+Program Exp1;
+Var N,V,I: integer;
+    Procedure B;
+    Var A : integer;
+    Begin
+	A := 10;
+	N := 30 + A;
+End;
+Begin
+
+	I := 0;
+	DO
+		I := I + 1;
+	WHILE I < 10;
+	
+	Call B;
+	CALL WRITEI(n);
+End.

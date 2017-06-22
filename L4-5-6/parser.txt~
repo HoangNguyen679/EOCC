@@ -1,0 +1,14 @@
++ Ky hieu:
+   + ket thuc : ki hieu \Sigma
+   + k ket thuc: ki hieu \Denta
++ S: ki hieu dau
++ P: san xuat/ quy tac
+
+------------------------------
+
++ dang cau: S, aSA, abAA, ...
++ cau: dang cau chi gom cac ki hieu ket thuc
++ ngon ngu: tap hop cac cau
+  + cho van pham: G = (\Sigma, \Delta, P, S) || G = (Vt, Vn, P, S);
+  + ngon ngu sinh ra: L(G) = {\Omega | (\Omega thuoc \Sigma*) && S=>*\Omega}
+  

@@ -1,0 +1,5 @@
++ khai bao nhieu bien tren mot dong
++ chi so mang A[2][3] = A[2,3]
++ lenh goi ham kh tham so phai co dau ngoac: CALL A();
++ chap nhan bieu thuc dieu kien: a = a > b ? a : b;
++ chap nhan cau lenh for(i = 0; i < 5; i++);
